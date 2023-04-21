@@ -461,7 +461,8 @@ Contributions to Milvus are welcome from everyone. See [Guidelines for Contribut
 
 For guidance on installation, development, deployment, and administration, check out [Milvus Docs](https://milvus.io/docs). For technical milestones and enhancement proposals, check out [milvus confluence](https://wiki.lfaidata.foundation/display/MIL/Milvus+Home)
 
-### SDK
+### 
+
 
 The implemented SDK and its API documentation are listed below:
 
@@ -472,6 +473,7 @@ The implemented SDK and its API documentation are listed below:
 - [Node SDK](https://github.com/milvus-io/milvus-sdk-node)
 - [Rust SDK](https://github.com/milvus-io/milvus-sdk-rust)(under development)
 - [CSharp SDK](https://github.com/milvus-io/milvus-sdk-csharp)(under development)
+- [Ruby SDK](https://github.com/andreibondarev/milvus)(under development)
 
 ### Attu
 
